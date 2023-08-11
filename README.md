@@ -1,2 +1,2 @@
 # GFG-Potd
-Leetcode Problem of the day Solutions Repository.
+GFG Problem of the day Solutions Repository.
